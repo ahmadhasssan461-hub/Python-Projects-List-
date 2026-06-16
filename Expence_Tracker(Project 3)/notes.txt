@@ -1,0 +1,26 @@
+============================================
+   PROJECT 2 — EXPENSE TRACKER
+============================================
+
+KYA KARTA HAI:
+- Apna kharch track karo
+- File mein save hota hai
+- Total automatically nikalta hai
+
+SKILLS USED:
+- File Handling (r, w, a)
+- While Loop
+- int() conversion
+- .strip() method
+
+LIBRARIES:
+- No extra library needed
+
+HOW TO RUN:
+- python expense.py
+
+IMPORTANT:
+- Program shuru hote waqt file clear hoti hai
+- "done" likh ke total dekho
+
+============================================

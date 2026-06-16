@@ -1,0 +1,28 @@
+============================================
+   PROJECT 3 — AI QUIZ GAME
+============================================
+
+KYA KARTA HAI:
+- AI khud questions banata hai
+- User jawab deta hai
+- AI check karta hai sahi ya galat
+- 5 questions ke baad score dikhata hai
+
+SKILLS USED:
+- Groq API
+- For Loop (range)
+- .strip().lower() method
+- f-strings
+
+LIBRARIES:
+- groq (pip install groq)
+
+HOW TO RUN:
+- python quiz.py
+
+IMPORTANT:
+- Apni Groq API key daalo
+- console.groq.com se key lo
+- Score /5 mein aata hai
+
+============================================

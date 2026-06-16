@@ -1,0 +1,28 @@
+============================================
+   PROJECT 4 — PASSWORD MANAGER
+============================================
+
+KYA KARTA HAI:
+- Passwords save karo
+- Passwords dekho
+- Passwords delete karo
+- File mein permanently save hote hain
+
+SKILLS USED:
+- OOP (Class, Methods, Objects)
+- File Handling (r, w, a)
+- Dictionary
+- .split() method
+
+LIBRARIES:
+- No extra library needed
+
+HOW TO RUN:
+- python password.py
+
+IMPORTANT:
+- Passwords pm.txt mein save hote hain
+- Format: site,password
+- pm.txt ko GitHub pe upload mat karna!
+
+============================================

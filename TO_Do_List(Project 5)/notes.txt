@@ -1,0 +1,28 @@
+============================================
+   PROJECT 6 — TO DO LIST APP
+============================================
+
+KYA KARTA HAI:
+- Tasks add karo
+- Tasks dekho
+- Tasks delete karo
+- Tasks complete karo (tick lagao)
+- File mein permanently save hote hain
+
+SKILLS USED:
+- OOP (Class, Methods, Objects)
+- File Handling (r, w, a)
+- Lists
+- .strip() method
+
+LIBRARIES:
+- No extra library needed
+
+HOW TO RUN:
+- python todo.py
+
+IMPORTANT:
+- Tasks todo.txt mein save hote hain
+- todo.txt ko backup rakhna
+
+============================================

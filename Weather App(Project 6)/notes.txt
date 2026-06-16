@@ -1,0 +1,28 @@
+============================================
+   PROJECT 5 — WEATHER APP
+============================================
+
+KYA KARTA HAI:
+- Kisi bhi city ka weather dekho
+- Temperature, Humidity, Description milti hai
+- "exit" likh ke band karo
+
+SKILLS USED:
+- OOP (Class, Methods, Objects)
+- requests library
+- JSON data handling
+- try/except error handling
+- While Loop
+
+LIBRARIES:
+- requests (pip install requests)
+
+HOW TO RUN:
+- python weather.py
+
+IMPORTANT:
+- OpenWeatherMap API key chahiye
+- openweathermap.org se free key lo
+- units = metric (Celsius ke liye)
+
+============================================
